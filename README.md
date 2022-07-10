@@ -2,8 +2,6 @@
 
 ETH-Miner est un mineur de ETH compatible uniquement avec [T-REX](https://github.com/trexminer/T-Rex/releases)
 
-<h2> Installation + Lancement </h2>
-
 Installation sur Windows
 =
 
