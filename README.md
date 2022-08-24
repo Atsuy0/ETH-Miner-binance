@@ -1,16 +1,21 @@
-<h1> 💸 ETH-Miner-Binance 💸 </h1>
+# Welcome to ETH Miner Binance
 
-ETH-Miner est un mineur de ETH compatible uniquement avec [T-REX](https://github.com/trexminer/T-Rex/releases)
+## 📖 Requirements:
+```cs
+  - T-rex (https://github.com/trexminer/T-Rex/releases)
+  - Binance
+```
 
-Installation sur Windows
-=
+## 🧸 Features:
+```cs
+  - Free
+  - Open-Source
+  - Easy
+```
 
-- 1. Telecharger [ETH-Miner-Binance](https://github.com/Atsuy0/ETH-Miner-binance/archive/master.zip)
 
-- 2. Telecharger [T-REX](https://github.com/trexminer/T-Rex/releases)
 
-- 4. Modifier le script ``ETH-binance.bat``
-
-- 5. Changer le ``user`` par votre nom Binance
-
-- 6. Lancer le programme.
+## 🚀 Start the bot:
+```cs
+  - Double Click on "ETH-binance.bat
+```
