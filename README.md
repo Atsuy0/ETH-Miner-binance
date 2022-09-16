@@ -1,7 +1,7 @@
-# Welcome to ETH Miner Binance
+
 
 ## 📖 Requirements:
-```cs
+```
   - T-rex (https://github.com/trexminer/T-Rex/releases)
   - Binance
 ```
